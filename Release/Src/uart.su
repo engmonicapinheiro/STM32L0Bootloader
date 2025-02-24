@@ -1,0 +1,2 @@
+../Src/uart.c:22:5:__io_putchar	0	static
+../Src/uart.c:28:6:UartInit	8	static

@@ -1,0 +1,5 @@
+../Src/timebase.c:15:6:delay	24	static
+../Src/timebase.c:30:10:GetTick	8	static,ignoring_inline_asm
+../Src/timebase.c:39:13:TickIncrement	8	static
+../Src/timebase.c:44:6:TimebaseInit	8	static,ignoring_inline_asm
+../Src/timebase.c:68:6:SysTick_Handler	8	static
